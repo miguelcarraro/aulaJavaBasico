@@ -1,4 +1,4 @@
-package labColeta;
+
 class Fila {
     private String[] filaComum;
     private String[] filaPrioridade;

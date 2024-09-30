@@ -1,4 +1,3 @@
-package labColeta;
 public class AtendimentoLab {
     public static void main(String[] args) {
         java.io.Console console = System.console();
